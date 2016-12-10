@@ -1,0 +1,547 @@
+21/01 14:27:55 EasyPHP EasyPHP Démarrage des serveurs
+21/01 14:27:56 EasyPHP Apache CreateProcess "C:\Users\Public\APP-PO~1\EASYPH~2.1VC\binaries\apache\bin\eds-httpd.exe"
+21/01 14:27:56 EasyPHP CreateProcess "C:\Users\Public\APP-PO~1\EASYPH~2.1VC\binaries\mysql\bin\eds-mysqld.exe --defaults-file="C:\Users\Public\APP-PO~1\EASYPH~2.1VC\binaries\mysql\my.ini" --language=english"
+21/01 14:28:01 EasyPHP EasyPHP Vérifier la version
+21/01 14:28:15 EasyPHP EasyPHP Arret des serveurs
+21/01 14:28:15 EasyPHP Apache stop event: ap5420_shutdown
+21/01 14:28:16 EasyPHP MySqlSutdown event = MySQLShutdown6764
+21/01 14:28:16 EasyPHP End EasyPHP...
+24/06 10:57:09 EasyPHP EasyPHP Démarrage des serveurs
+24/06 10:57:09 EasyPHP EasyPHP Error in Apache configuration file.
+24/06 10:57:11 EasyPHP Apache VerifyConfFile fail...
+24/06 10:57:11 EasyPHP CreateProcess "D:\MESDOC~1\DOCUME~1\Etml\2014-2~1\BDN1-S~1\BDN1-2\d-Outils\SERVEU~3\EASYPH~2.1VC\binaries\mysql\bin\eds-mysqld.exe --defaults-file="D:\MESDOC~1\DOCUME~1\Etml\2014-2~1\BDN1-S~1\BDN1-2\d-Outils\SERVEU~3\EASYPH~2.1VC\binaries\mysql\my.ini" --language=english"
+24/06 10:57:12 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 8072) error 5
+24/06 10:57:12 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 8072) error 5
+24/06 10:57:13 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 8072) error 5
+24/06 10:57:14 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 8072) error 5
+24/06 10:57:14 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 8072) error 5
+24/06 10:57:15 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 8072) error 5
+24/06 10:57:16 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 8072) error 5
+24/06 10:57:16 EasyPHP EasyPHP Vérifier la version
+24/06 10:57:27 EasyPHP EasyPHP Démarrage des serveurs
+24/06 10:57:27 EasyPHP EasyPHP Error in Apache configuration file.
+24/06 10:57:30 EasyPHP Apache VerifyConfFile fail...
+24/06 10:57:30 EasyPHP CreateProcess "D:\MESDOC~1\DOCUME~1\Etml\2014-2~1\BDN1-S~1\BDN1-2\d-Outils\SERVEU~3\EASYPH~2.1VC\binaries\mysql\bin\eds-mysqld.exe --defaults-file="D:\MESDOC~1\DOCUME~1\Etml\2014-2~1\BDN1-S~1\BDN1-2\d-Outils\SERVEU~3\EASYPH~2.1VC\binaries\mysql\my.ini" --language=english"
+24/06 10:57:31 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 1040) error 5
+24/06 10:57:31 EasyPHP MySql   MySql s'est terminé de façon inattendue !
+24/06 10:57:59 EasyPHP EasyPHP Arret des serveurs
+24/06 10:57:59 EasyPHP End EasyPHP...
+30/05 14:40:01 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+30/05 14:40:01 EasyPHP EasyPHP Démarrage des serveurs
+30/05 14:40:02 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+30/05 14:40:02 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+30/05 14:40:07 EasyPHP EasyPHP Vérifier la version
+30/05 15:44:02 EasyPHP EasyPHP Arret des serveurs
+30/05 15:44:02 EasyPHP Apache stop event: ap7856_shutdown
+30/05 15:44:03 EasyPHP MySqlSutdown event = MySQLShutdown6644
+30/05 15:44:03 EasyPHP End EasyPHP...
+30/05 18:42:10 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+30/05 18:42:10 EasyPHP EasyPHP Démarrage des serveurs
+30/05 18:42:12 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+30/05 18:42:12 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+30/05 18:42:17 EasyPHP EasyPHP Vérifier la version
+30/05 20:54:51 EasyPHP EasyPHP Arret des serveurs
+30/05 20:54:51 EasyPHP Apache stop event: ap8740_shutdown
+30/05 20:54:51 EasyPHP MySqlSutdown event = MySQLShutdown10820
+30/05 20:54:51 EasyPHP MySqlSutdown event open fail = 2
+30/05 20:54:53 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 10820) error 5
+31/05 13:07:35 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+31/05 13:07:36 EasyPHP EasyPHP Démarrage des serveurs
+31/05 13:07:36 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+31/05 13:07:36 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+31/05 13:07:41 EasyPHP EasyPHP Vérifier la version
+31/05 16:34:55 EasyPHP EasyPHP Arret des serveurs
+31/05 16:34:55 EasyPHP Apache stop event: ap5040_shutdown
+31/05 16:34:55 EasyPHP MySqlSutdown event = MySQLShutdown7832
+31/05 16:34:56 EasyPHP End EasyPHP...
+31/05 17:07:24 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+31/05 17:07:24 EasyPHP EasyPHP Démarrage des serveurs
+31/05 17:07:26 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+31/05 17:07:26 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+31/05 17:07:31 EasyPHP EasyPHP Vérifier la version
+31/05 17:55:25 EasyPHP EasyPHP Arret des serveurs
+31/05 17:55:25 EasyPHP Apache stop event: ap9144_shutdown
+31/05 17:55:26 EasyPHP MySqlSutdown event = MySQLShutdown9556
+31/05 17:55:26 EasyPHP End EasyPHP...
+01/06 07:54:37 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+01/06 07:54:37 EasyPHP EasyPHP Démarrage des serveurs
+01/06 07:54:38 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+01/06 07:54:38 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+01/06 07:54:43 EasyPHP EasyPHP Vérifier la version
+01/06 08:57:07 EasyPHP EasyPHP Redemarrage des serveurs
+01/06 08:57:08 EasyPHP Apache restart event: ap4524_restart
+01/06 08:57:08 EasyPHP MySqlSutdown event = MySQLShutdown7188
+01/06 08:57:09 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 7188) error 5
+01/06 08:57:09 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+01/06 08:57:12 EasyPHP EasyPHP Arret des serveurs
+01/06 08:57:12 EasyPHP Apache stop event: ap4524_shutdown
+01/06 08:57:13 EasyPHP MySqlSutdown event = MySQLShutdown8896
+01/06 08:57:15 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 8896) error 5
+01/06 08:57:15 EasyPHP ServerBase::TimerProc : GetProcessVersion Apache (pid: 4524) error 5
+01/06 08:57:22 EasyPHP EasyPHP Démarrage des serveurs
+01/06 08:57:23 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+01/06 08:57:23 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+01/06 16:34:25 EasyPHP EasyPHP Arret des serveurs
+01/06 16:34:25 EasyPHP Apache stop event: ap4080_shutdown
+01/06 16:34:26 EasyPHP MySqlSutdown event = MySQLShutdown7908
+01/06 16:34:26 EasyPHP End EasyPHP...
+01/06 18:08:22 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+01/06 18:08:22 EasyPHP EasyPHP Démarrage des serveurs
+01/06 18:08:24 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+01/06 18:08:24 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+01/06 18:08:29 EasyPHP EasyPHP Vérifier la version
+01/06 19:01:17 EasyPHP EasyPHP Arret des serveurs
+01/06 19:01:17 EasyPHP Apache stop event: ap4140_shutdown
+01/06 19:01:18 EasyPHP MySqlSutdown event = MySQLShutdown11336
+01/06 19:01:19 EasyPHP EasyPHP Arret des serveurs
+01/06 19:01:19 EasyPHP End EasyPHP...
+02/06 18:24:13 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+02/06 18:24:13 EasyPHP EasyPHP Démarrage des serveurs
+02/06 18:24:15 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+02/06 18:24:15 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+02/06 18:24:21 EasyPHP EasyPHP Vérifier la version
+03/06 07:58:20 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+03/06 07:58:20 EasyPHP EasyPHP Démarrage des serveurs
+03/06 07:58:21 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+03/06 07:58:21 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+03/06 07:58:27 EasyPHP EasyPHP Vérifier la version
+03/06 16:20:16 EasyPHP EasyPHP Arret des serveurs
+03/06 16:20:16 EasyPHP Apache stop event: ap7344_shutdown
+03/06 16:20:16 EasyPHP MySqlSutdown event = MySQLShutdown6744
+03/06 16:20:17 EasyPHP End EasyPHP...
+04/06 20:51:38 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+04/06 20:51:38 EasyPHP EasyPHP Démarrage des serveurs
+04/06 20:51:39 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+04/06 20:51:39 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+04/06 20:51:44 EasyPHP EasyPHP Vérifier la version
+04/06 20:53:09 EasyPHP EasyPHP Arret des serveurs
+04/06 20:53:09 EasyPHP Apache stop event: ap8812_shutdown
+04/06 20:53:10 EasyPHP MySqlSutdown event = MySQLShutdown6844
+04/06 20:53:11 EasyPHP End EasyPHP...
+05/06 11:10:07 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+05/06 11:10:07 EasyPHP EasyPHP Démarrage des serveurs
+05/06 11:10:11 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+05/06 11:10:11 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+05/06 11:10:16 EasyPHP EasyPHP Vérifier la version
+05/06 11:26:33 EasyPHP EasyPHP Arret des serveurs
+05/06 11:26:33 EasyPHP Apache stop event: ap1928_shutdown
+05/06 11:26:34 EasyPHP MySqlSutdown event = MySQLShutdown3480
+05/06 11:26:34 EasyPHP End EasyPHP...
+05/06 16:42:00 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+05/06 16:42:00 EasyPHP EasyPHP Démarrage des serveurs
+05/06 16:42:02 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+05/06 16:42:02 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+05/06 16:42:07 EasyPHP EasyPHP Vérifier la version
+06/06 08:01:45 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+06/06 08:01:45 EasyPHP EasyPHP Démarrage des serveurs
+06/06 08:01:46 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+06/06 08:01:46 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+06/06 08:01:51 EasyPHP EasyPHP Vérifier la version
+06/06 15:40:14 EasyPHP EasyPHP Arret des serveurs
+06/06 15:40:14 EasyPHP Apache stop event: ap7280_shutdown
+06/06 15:40:14 EasyPHP MySqlSutdown event = MySQLShutdown7400
+06/06 15:40:14 EasyPHP End EasyPHP...
+07/06 13:08:13 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+07/06 13:08:13 EasyPHP EasyPHP Démarrage des serveurs
+07/06 13:08:14 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+07/06 13:08:14 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+07/06 13:08:19 EasyPHP EasyPHP Vérifier la version
+07/06 16:32:55 EasyPHP EasyPHP Arret des serveurs
+07/06 16:32:55 EasyPHP Apache stop event: ap5224_shutdown
+07/06 16:32:56 EasyPHP MySqlSutdown event = MySQLShutdown3452
+07/06 16:32:56 EasyPHP End EasyPHP...
+08/06 07:55:53 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+08/06 07:55:53 EasyPHP EasyPHP Démarrage des serveurs
+08/06 07:55:54 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+08/06 07:55:54 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+08/06 07:55:59 EasyPHP EasyPHP Vérifier la version
+08/06 15:03:08 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+08/06 15:03:08 EasyPHP EasyPHP Démarrage des serveurs
+08/06 15:03:09 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+08/06 15:03:09 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+08/06 15:03:14 EasyPHP EasyPHP Vérifier la version
+08/06 16:30:23 EasyPHP EasyPHP Arret des serveurs
+08/06 16:30:23 EasyPHP Apache stop event: ap8072_shutdown
+08/06 16:30:23 EasyPHP MySqlSutdown event = MySQLShutdown8180
+08/06 16:30:25 EasyPHP EasyPHP Arret des serveurs
+08/06 16:30:25 EasyPHP End EasyPHP...
+10/06 07:58:45 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+10/06 07:58:45 EasyPHP EasyPHP Démarrage des serveurs
+10/06 07:58:46 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+10/06 07:58:46 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+10/06 07:58:51 EasyPHP EasyPHP Vérifier la version
+10/06 08:28:04 EasyPHP EasyPHP Arret des serveurs
+10/06 08:28:04 EasyPHP Apache stop event: ap8112_shutdown
+10/06 08:28:05 EasyPHP MySqlSutdown event = MySQLShutdown5148
+10/06 08:28:05 EasyPHP End EasyPHP...
+10/06 08:29:14 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+10/06 08:29:14 EasyPHP EasyPHP Démarrage des serveurs
+10/06 08:29:15 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+10/06 08:29:15 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+10/06 08:29:21 EasyPHP EasyPHP Vérifier la version
+10/06 16:30:08 EasyPHP EasyPHP Arret des serveurs
+10/06 16:30:08 EasyPHP Apache stop event: ap7224_shutdown
+10/06 16:30:09 EasyPHP MySqlSutdown event = MySQLShutdown7236
+10/06 16:30:09 EasyPHP End EasyPHP...
+13/06 08:01:02 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+13/06 08:01:02 EasyPHP EasyPHP Démarrage des serveurs
+13/06 08:01:03 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+13/06 08:01:03 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+13/06 08:01:08 EasyPHP EasyPHP Vérifier la version
+13/06 15:41:41 EasyPHP EasyPHP Arret des serveurs
+13/06 15:41:41 EasyPHP Apache stop event: ap8112_shutdown
+13/06 15:41:42 EasyPHP MySqlSutdown event = MySQLShutdown8124
+13/06 15:41:42 EasyPHP End EasyPHP...
+14/06 13:08:04 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+14/06 13:08:04 EasyPHP EasyPHP Démarrage des serveurs
+14/06 13:08:05 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+14/06 13:08:05 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+14/06 13:08:10 EasyPHP EasyPHP Vérifier la version
+14/06 16:34:07 EasyPHP EasyPHP Arret des serveurs
+14/06 16:34:07 EasyPHP Apache stop event: ap8548_shutdown
+14/06 16:34:08 EasyPHP MySqlSutdown event = MySQLShutdown4052
+14/06 16:34:08 EasyPHP End EasyPHP...
+15/06 07:54:08 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+15/06 07:54:08 EasyPHP EasyPHP Démarrage des serveurs
+15/06 07:54:09 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+15/06 07:54:09 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+15/06 07:54:14 EasyPHP EasyPHP Vérifier la version
+15/06 10:01:40 EasyPHP EasyPHP Redemarrage des serveurs
+15/06 10:01:40 EasyPHP Apache restart event: ap7216_restart
+15/06 10:01:40 EasyPHP MySqlSutdown event = MySQLShutdown7224
+15/06 10:01:42 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 7224) error 5
+15/06 10:01:42 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+15/06 16:30:48 EasyPHP EasyPHP Arret des serveurs
+15/06 16:30:48 EasyPHP Apache stop event: ap7216_shutdown
+15/06 16:30:49 EasyPHP MySqlSutdown event = MySQLShutdown10908
+15/06 16:30:49 EasyPHP End EasyPHP...
+17/06 07:57:11 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+17/06 07:57:11 EasyPHP EasyPHP Démarrage des serveurs
+17/06 07:57:12 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+17/06 07:57:12 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+17/06 07:57:17 EasyPHP EasyPHP Vérifier la version
+17/06 16:24:30 EasyPHP EasyPHP Arret des serveurs
+17/06 16:24:30 EasyPHP Apache stop event: ap7600_shutdown
+17/06 16:24:31 EasyPHP MySqlSutdown event = MySQLShutdown7616
+17/06 16:24:31 EasyPHP End EasyPHP...
+27/06 08:24:15 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+27/06 08:24:15 EasyPHP EasyPHP Démarrage des serveurs
+27/06 08:24:16 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+27/06 08:24:16 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+27/06 08:24:21 EasyPHP EasyPHP Vérifier la version
+27/06 09:51:23 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+27/06 09:51:23 EasyPHP EasyPHP Démarrage des serveurs
+27/06 09:51:24 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+27/06 09:51:24 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+27/06 09:51:29 EasyPHP EasyPHP Vérifier la version
+27/06 12:18:22 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+27/06 12:18:22 EasyPHP EasyPHP Démarrage des serveurs
+27/06 12:18:23 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+27/06 12:18:23 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+27/06 12:18:28 EasyPHP EasyPHP Vérifier la version
+27/06 12:18:58 EasyPHP EasyPHP Redemarrage des serveurs
+27/06 12:18:59 EasyPHP Apache restart event: ap4316_restart
+27/06 12:18:59 EasyPHP MySqlSutdown event = MySQLShutdown6604
+27/06 12:19:01 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 6604) error 5
+27/06 12:19:01 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+27/06 15:07:38 EasyPHP EasyPHP Arret des serveurs
+27/06 15:07:38 EasyPHP Apache stop event: ap4316_shutdown
+27/06 15:07:38 EasyPHP Apache::StopExe stop event ap4316_shutdown fail : 2
+27/06 15:07:39 EasyPHP MySqlSutdown event = MySQLShutdown11216
+27/06 15:07:39 EasyPHP MySqlSutdown event open fail = 2
+27/06 16:16:09 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+27/06 16:16:09 EasyPHP EasyPHP Démarrage des serveurs
+27/06 16:16:11 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+27/06 16:16:11 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+27/06 16:16:16 EasyPHP EasyPHP Vérifier la version
+03/07 13:11:08 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+03/07 13:11:08 EasyPHP EasyPHP Démarrage des serveurs
+03/07 13:11:10 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+03/07 13:11:10 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+03/07 13:11:15 EasyPHP EasyPHP Vérifier la version
+08/08 16:17:15 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+08/08 16:17:15 EasyPHP EasyPHP Démarrage des serveurs
+08/08 16:17:17 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+08/08 16:17:17 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+08/08 16:17:22 EasyPHP EasyPHP Vérifier la version
+17/08 10:07:14 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+17/08 10:07:14 EasyPHP EasyPHP Démarrage des serveurs
+17/08 10:07:16 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+17/08 10:07:16 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+17/08 10:07:21 EasyPHP EasyPHP Vérifier la version
+17/08 15:03:25 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+17/08 15:03:25 EasyPHP EasyPHP Démarrage des serveurs
+17/08 15:03:27 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+17/08 15:03:27 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+17/08 15:03:32 EasyPHP EasyPHP Vérifier la version
+18/08 11:05:18 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+18/08 11:05:18 EasyPHP EasyPHP Démarrage des serveurs
+18/08 11:05:20 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+18/08 11:05:20 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+18/08 11:05:25 EasyPHP EasyPHP Vérifier la version
+19/08 10:41:17 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+19/08 10:41:17 EasyPHP EasyPHP Démarrage des serveurs
+19/08 10:41:19 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+19/08 10:41:19 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+19/08 10:41:24 EasyPHP EasyPHP Vérifier la version
+19/08 13:31:04 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+19/08 13:31:04 EasyPHP EasyPHP Démarrage des serveurs
+19/08 13:31:06 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+19/08 13:31:06 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+19/08 13:31:11 EasyPHP EasyPHP Vérifier la version
+19/08 16:05:31 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+19/08 16:05:31 EasyPHP EasyPHP Démarrage des serveurs
+19/08 16:05:33 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+19/08 16:05:33 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+19/08 16:05:38 EasyPHP EasyPHP Vérifier la version
+19/08 16:26:34 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+19/08 16:26:34 EasyPHP EasyPHP Démarrage des serveurs
+19/08 16:26:36 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+19/08 16:26:36 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+19/08 16:26:41 EasyPHP EasyPHP Vérifier la version
+21/08 09:04:26 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+21/08 09:04:26 EasyPHP EasyPHP Démarrage des serveurs
+21/08 09:04:28 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+21/08 09:04:28 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+21/08 09:04:33 EasyPHP EasyPHP Vérifier la version
+21/08 12:21:37 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+21/08 12:21:37 EasyPHP EasyPHP Démarrage des serveurs
+21/08 12:21:38 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+21/08 12:21:38 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+21/08 12:21:43 EasyPHP EasyPHP Vérifier la version
+22/08 17:11:26 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+22/08 17:11:26 EasyPHP EasyPHP Démarrage des serveurs
+22/08 17:11:28 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+22/08 17:11:28 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+22/08 17:11:33 EasyPHP EasyPHP Vérifier la version
+22/08 17:34:00 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+22/08 17:34:00 EasyPHP EasyPHP Démarrage des serveurs
+22/08 17:34:02 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+22/08 17:34:02 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+22/08 17:34:07 EasyPHP EasyPHP Vérifier la version
+23/08 18:11:25 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+23/08 18:11:26 EasyPHP EasyPHP Démarrage des serveurs
+23/08 18:11:27 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+23/08 18:11:27 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+23/08 18:11:32 EasyPHP EasyPHP Vérifier la version
+24/08 17:50:34 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+24/08 17:50:34 EasyPHP EasyPHP Démarrage des serveurs
+24/08 17:50:35 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+24/08 17:50:35 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+24/08 17:50:40 EasyPHP EasyPHP Vérifier la version
+24/08 19:09:35 EasyPHP EasyPHP Arret des serveurs
+24/08 19:09:35 EasyPHP Apache stop event: ap10496_shutdown
+24/08 19:09:36 EasyPHP MySqlSutdown event = MySQLShutdown8868
+24/08 19:09:36 EasyPHP End EasyPHP...
+24/08 19:10:02 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+24/08 19:10:02 EasyPHP EasyPHP Démarrage des serveurs
+24/08 19:10:03 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+24/08 19:10:03 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+24/08 19:10:08 EasyPHP EasyPHP Vérifier la version
+24/08 21:07:50 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+24/08 21:07:50 EasyPHP EasyPHP Démarrage des serveurs
+24/08 21:07:52 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+24/08 21:07:52 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+24/08 21:07:57 EasyPHP EasyPHP Vérifier la version
+24/08 21:38:31 EasyPHP EasyPHP Arret des serveurs
+24/08 21:38:31 EasyPHP Apache stop event: ap10236_shutdown
+24/08 21:38:31 EasyPHP Apache::StopExe stop event ap10236_shutdown fail : 2
+24/08 21:38:32 EasyPHP MySqlSutdown event = MySQLShutdown6952
+24/08 21:38:32 EasyPHP MySqlSutdown event open fail = 2
+25/08 11:05:09 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+25/08 11:05:09 EasyPHP EasyPHP Démarrage des serveurs
+25/08 11:05:11 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+25/08 11:05:11 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+25/08 11:05:16 EasyPHP EasyPHP Vérifier la version
+25/08 11:10:54 EasyPHP EasyPHP Arret des serveurs
+25/08 11:10:54 EasyPHP Apache stop event: ap1168_shutdown
+25/08 11:10:55 EasyPHP MySqlSutdown event = MySQLShutdown2324
+25/08 11:10:55 EasyPHP End EasyPHP...
+25/08 17:46:08 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+25/08 17:46:08 EasyPHP EasyPHP Démarrage des serveurs
+25/08 17:46:10 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+25/08 17:46:10 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+25/08 17:46:15 EasyPHP EasyPHP Vérifier la version
+25/08 17:48:01 EasyPHP EasyPHP Arret des serveurs
+25/08 17:48:01 EasyPHP Apache stop event: ap4336_shutdown
+25/08 17:48:02 EasyPHP MySqlSutdown event = MySQLShutdown5688
+25/08 17:48:02 EasyPHP End EasyPHP...
+25/08 21:11:59 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+25/08 21:11:59 EasyPHP EasyPHP Démarrage des serveurs
+25/08 21:12:01 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+25/08 21:12:01 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+25/08 21:12:06 EasyPHP EasyPHP Vérifier la version
+28/08 18:46:38 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+28/08 18:46:39 EasyPHP EasyPHP Démarrage des serveurs
+28/08 18:46:41 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+28/08 18:46:41 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+28/08 18:46:46 EasyPHP EasyPHP Vérifier la version
+28/08 19:05:48 EasyPHP EasyPHP Arret des serveurs
+28/08 19:05:48 EasyPHP Apache stop event: ap13004_shutdown
+28/08 19:05:48 EasyPHP MySqlSutdown event = MySQLShutdown12852
+28/08 19:05:48 EasyPHP End EasyPHP...
+30/08 20:36:13 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+30/08 20:36:13 EasyPHP EasyPHP Démarrage des serveurs
+30/08 20:36:16 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+30/08 20:36:16 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+30/08 20:36:21 EasyPHP EasyPHP Vérifier la version
+30/08 21:23:07 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+30/08 21:23:07 EasyPHP EasyPHP Démarrage des serveurs
+30/08 21:23:09 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+30/08 21:23:09 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+30/08 21:23:14 EasyPHP EasyPHP Vérifier la version
+30/08 21:55:55 EasyPHP EasyPHP Arret des serveurs
+30/08 21:55:55 EasyPHP Apache stop event: ap7492_shutdown
+30/08 21:55:56 EasyPHP MySqlSutdown event = MySQLShutdown3816
+30/08 21:55:56 EasyPHP MySqlSutdown event open fail = 2
+30/08 21:55:56 EasyPHP End EasyPHP...
+31/08 17:47:02 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+31/08 17:47:02 EasyPHP EasyPHP Démarrage des serveurs
+31/08 17:47:04 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+31/08 17:47:04 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+31/08 17:47:09 EasyPHP EasyPHP Vérifier la version
+31/08 20:14:41 EasyPHP EasyPHP Arret des serveurs
+31/08 20:14:41 EasyPHP Apache stop event: ap3520_shutdown
+31/08 20:14:41 EasyPHP Apache::StopExe stop event ap3520_shutdown fail : 2
+31/08 20:14:42 EasyPHP MySqlSutdown event = MySQLShutdown10016
+31/08 20:14:42 EasyPHP MySqlSutdown event open fail = 2
+31/08 20:14:42 EasyPHP End EasyPHP...
+31/08 21:23:59 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+31/08 21:23:59 EasyPHP EasyPHP Démarrage des serveurs
+31/08 21:24:00 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+31/08 21:24:00 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+31/08 21:24:05 EasyPHP EasyPHP Vérifier la version
+31/08 21:56:32 EasyPHP EasyPHP Arret des serveurs
+31/08 21:56:32 EasyPHP Apache stop event: ap12040_shutdown
+31/08 21:56:32 EasyPHP Apache::StopExe stop event ap12040_shutdown fail : 2
+31/08 21:56:33 EasyPHP MySqlSutdown event = MySQLShutdown6884
+31/08 21:56:33 EasyPHP MySqlSutdown event open fail = 2
+31/08 21:56:34 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 6884) error 5
+02/09 11:28:44 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+02/09 11:28:44 EasyPHP EasyPHP Démarrage des serveurs
+02/09 11:28:45 EasyPHP Apache CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+02/09 11:28:45 EasyPHP CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+02/09 11:28:50 EasyPHP EasyPHP Vérifier la version
+02/09 12:09:25 EasyPHP EasyPHP Arret des serveurs
+02/09 12:09:25 EasyPHP Apache stop event: ap6764_shutdown
+02/09 12:09:25 EasyPHP Apache::StopExe stop event ap6764_shutdown fail : 2
+02/09 12:09:26 EasyPHP MySqlSutdown event = MySQLShutdown8164
+02/09 12:09:26 EasyPHP MySqlSutdown event open fail = 2
+03/09 20:55:21 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+03/09 20:55:21 EasyPHP EasyPHP Démarrage des serveurs
+03/09 20:55:23 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+03/09 20:55:23 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+03/09 20:55:28 EasyPHP EasyPHP Vérifier la version
+03/09 22:16:47 EasyPHP EasyPHP Arret des serveurs
+03/09 22:16:47 EasyPHP Apache stop event: ap6104_shutdown
+03/09 22:16:47 EasyPHP Apache::StopExe stop event ap6104_shutdown fail : 2
+03/09 22:16:48 EasyPHP MySqlSutdown event = MySQLShutdown10080
+03/09 22:16:48 EasyPHP MySqlSutdown event open fail = 2
+03/09 22:16:49 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 10080) error 5
+07/09 15:36:21 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+07/09 15:36:21 EasyPHP EasyPHP Démarrage des serveurs
+07/09 15:36:23 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+07/09 15:36:23 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+07/09 15:36:28 EasyPHP EasyPHP Vérifier la version
+29/09 10:18:19 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+29/09 10:18:19 EasyPHP EasyPHP Démarrage des serveurs
+29/09 10:18:20 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+29/09 10:18:20 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+29/09 10:18:25 EasyPHP EasyPHP Vérifier la version
+29/09 10:35:48 EasyPHP EasyPHP Arret des serveurs
+29/09 10:35:48 EasyPHP Apache stop event: ap9736_shutdown
+29/09 10:35:49 EasyPHP MySqlSutdown event = MySQLShutdown9852
+29/09 10:35:49 EasyPHP End EasyPHP...
+02/10 08:47:14 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+02/10 08:47:14 EasyPHP EasyPHP Démarrage des serveurs
+02/10 08:47:16 EasyPHP Apache CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+02/10 08:47:16 EasyPHP CreateProcess "F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="F:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+02/10 08:47:21 EasyPHP EasyPHP Vérifier la version
+14/10 11:12:56 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+14/10 11:12:56 EasyPHP EasyPHP Démarrage des serveurs
+14/10 11:12:57 EasyPHP Apache CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+14/10 11:12:57 EasyPHP CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+14/10 11:13:02 EasyPHP EasyPHP Vérifier la version
+14/10 12:08:57 EasyPHP EasyPHP Arret des serveurs
+14/10 12:08:57 EasyPHP Apache stop event: ap10096_shutdown
+14/10 12:08:57 EasyPHP Apache::StopExe stop event ap10096_shutdown fail : 2
+14/10 12:08:58 EasyPHP MySqlSutdown event = MySQLShutdown10112
+14/10 12:08:58 EasyPHP MySqlSutdown event open fail = 2
+15/10 08:27:03 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+15/10 08:27:03 EasyPHP EasyPHP Démarrage des serveurs
+15/10 08:27:13 EasyPHP VerifyConfFile : WaitForSingleObject timeout for pid 8308
+15/10 08:27:13 EasyPHP Apache ServerBase::Start ScanProcess -> 460
+15/10 08:27:13 EasyPHP CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+15/10 08:27:18 EasyPHP EasyPHP Vérifier la version
+15/10 08:27:28 EasyPHP ServerBase::TimerProc : GetProcessVersion Apache (pid: 460) error 87
+15/10 08:27:28 EasyPHP Apache  Apache s'est terminé de façon inattendue !
+15/10 19:30:53 EasyPHP EasyPHP Arret des serveurs
+15/10 19:30:53 EasyPHP MySqlSutdown event = MySQLShutdown13264
+15/10 19:30:53 EasyPHP End EasyPHP...
+17/10 12:36:09 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+17/10 12:36:09 EasyPHP EasyPHP Démarrage des serveurs
+17/10 12:36:10 EasyPHP Apache CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+17/10 12:36:10 EasyPHP CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+17/10 12:36:15 EasyPHP EasyPHP Vérifier la version
+17/10 12:50:46 EasyPHP EasyPHP Arret des serveurs
+17/10 12:50:46 EasyPHP Apache stop event: ap6600_shutdown
+17/10 12:50:47 EasyPHP MySqlSutdown event = MySQLShutdown5704
+17/10 12:50:48 EasyPHP ServerBase::TimerProc : GetProcessVersion Apache (pid: 6600) error 5
+17/10 12:50:49 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 5704) error 5
+17/10 18:45:36 EasyPHP EasyPHP Arret des serveurs
+18/10 12:09:36 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+18/10 12:09:36 EasyPHP EasyPHP Démarrage des serveurs
+18/10 12:09:36 EasyPHP Apache CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+18/10 12:09:36 EasyPHP CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+18/10 12:09:41 EasyPHP EasyPHP Vérifier la version
+18/10 12:59:54 EasyPHP EasyPHP Arret des serveurs
+18/10 12:59:54 EasyPHP Apache stop event: ap8452_shutdown
+18/10 12:59:54 EasyPHP MySqlSutdown event = MySQLShutdown10228
+18/10 12:59:56 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 10228) error 5
+18/10 12:59:56 EasyPHP ServerBase::TimerProc : GetProcessVersion Apache (pid: 8452) error 5
+18/10 12:59:56 EasyPHP EasyPHP Arret des serveurs
+18/10 12:59:56 EasyPHP End EasyPHP...
+19/10 10:15:13 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+19/10 10:15:13 EasyPHP EasyPHP Démarrage des serveurs
+19/10 10:15:13 EasyPHP Apache CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+19/10 10:15:13 EasyPHP CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+19/10 10:15:18 EasyPHP EasyPHP Vérifier la version
+19/10 20:35:27 EasyPHP EasyPHP Arret des serveurs
+19/10 20:35:27 EasyPHP Apache stop event: ap4068_shutdown
+19/10 20:35:28 EasyPHP MySqlSutdown event = MySQLShutdown10968
+19/10 20:35:28 EasyPHP End EasyPHP...
+25/10 16:05:39 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+25/10 16:05:39 EasyPHP EasyPHP Démarrage des serveurs
+25/10 16:05:40 EasyPHP Apache CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+25/10 16:05:40 EasyPHP CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+25/10 16:05:45 EasyPHP EasyPHP Vérifier la version
+28/10 09:37:28 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+28/10 09:37:28 EasyPHP EasyPHP Démarrage des serveurs
+28/10 09:37:28 EasyPHP Apache CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+28/10 09:37:28 EasyPHP CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+28/10 09:37:33 EasyPHP EasyPHP Vérifier la version
+28/10 10:38:12 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 10624) error 5
+28/10 10:38:12 EasyPHP ServerBase::TimerProc : GetProcessVersion Apache (pid: 4316) error 5
+28/10 10:38:12 EasyPHP MySql   MySql s'est terminé de façon inattendue !
+28/10 10:38:12 EasyPHP Apache  Apache s'est terminé de façon inattendue !
+28/10 10:38:22 EasyPHP EasyPHP Arret des serveurs
+28/10 10:38:22 EasyPHP End EasyPHP...
+29/10 12:26:31 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+29/10 12:26:31 EasyPHP EasyPHP Démarrage des serveurs
+29/10 12:26:32 EasyPHP Apache CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+29/10 12:26:32 EasyPHP CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+29/10 12:26:37 EasyPHP EasyPHP Vérifier la version
+29/10 21:37:12 EasyPHP EasyPHP Arret des serveurs
+29/10 21:37:12 EasyPHP Apache stop event: ap4780_shutdown
+29/10 21:37:13 EasyPHP MySqlSutdown event = MySQLShutdown5764
+29/10 21:37:13 EasyPHP MySqlSutdown event open fail = 2
+29/10 21:37:13 EasyPHP ServerBase::TimerProc : GetProcessVersion MySQL (pid: 5764) error 5
+02/11 08:46:20 EasyPHP EasyPHP Removable drive: Regenerate conf files...
+02/11 08:46:20 EasyPHP EasyPHP Démarrage des serveurs
+02/11 08:46:21 EasyPHP Apache CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\apache\bin\eds-httpd.exe"
+02/11 08:46:21 EasyPHP CreateProcess "E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\bin\eds-mysqld.exe --defaults-file="E:\DemoMot\EasyPHP-DevServer-14.1VC11-Portable\binaries\mysql\my.ini" --language=english"
+02/11 08:46:26 EasyPHP EasyPHP Vérifier la version
+02/11 20:59:01 EasyPHP EasyPHP Arret des serveurs
+02/11 20:59:01 EasyPHP Apache stop event: ap14316_shutdown
+02/11 20:59:02 EasyPHP MySqlSutdown event = MySQLShutdown15124
+02/11 20:59:02 EasyPHP End EasyPHP...
